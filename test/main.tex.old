@@ -1,0 +1,58 @@
+\input{thispreamble.tex}
+
+\renewcommand\AUTHOR{jdoe5@cougars.ccis.edu} % CHANGE TO YOURS
+
+\begin{document}
+\topmattertwo
+
+\input{preamble-instructions.tex}
+
+\begin{center}
+  \textsc{Honor Statement}
+\end{center}
+I, \answerbox{[REPLACE WITH YOUR FULLNAME]},
+attest to the fact that the submitted work is my own and
+is not the result of plagiarism.
+Furthermore, I have not aided another student in the act of
+plagiarism.
+
+% ------------------------------------------------------------------------------
+\begin{python}
+from scoretable import *
+\end{python}
+
+% ------------------------------------------------------------------------------
+\newpage
+\input{preamble.tex}
+
+% ------------------------------------------------------------------------------
+\nextq
+
+1 + 1 = \answerbox{}
+
+% ------------------------------------------------------------------------------
+\nextq
+\tf. 1 + 1 = 5
+\dotfill \answerbox{?}
+
+% ------------------------------------------------------------------------------
+\newpage
+\nextq
+Declare an integer variable named \verb!x!.
+\ANSWER
+\begin{answercode}  
+\end{answercode}
+
+% ------------------------------------------------------------------------------
+\newpage
+\nextq
+What is 1 + 1?
+\ANSWER
+\begin{answerlong}
+
+\end{answerlong}
+
+%------------------------------------------------------------------------------
+\newpage
+\input{instructions}
+\end{document}

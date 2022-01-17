@@ -1,0 +1,1007 @@
+\begin{center}
+\begin{tikzpicture}
+
+\draw (1.5, -0.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -0.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}Question}}}};\node[anchor=south] at (1.5,0.01) {};\node[anchor=east] at (-0.01,-0.4) {};
+\draw (1.4999999999999998, -0.4)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (4.5, -0.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -0.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}Points}}}};\node[anchor=south] at (4.5,0.01) {};\node[anchor=east] at (2.99,-0.4) {};
+\draw (4.5, -0.4)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (1.5, -1.2000000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -1.2000000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}1}}}};
+\draw (1.5, -2.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -2.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}2}}}};
+\draw (1.5, -2.8000000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -2.8000000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}3}}}};
+\draw (1.5, -3.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -3.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}4}}}};
+\draw (1.5, -4.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -4.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}5}}}};
+\draw (1.5, -5.199999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -5.199999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}6}}}};
+\draw (1.5, -6.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -6.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}7}}}};
+\draw (1.5, -6.799999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -6.799999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}8}}}};
+\draw (1.5, -7.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -7.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}9}}}};
+\draw (1.5, -8.399999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -8.399999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}10}}}};
+\draw (1.5, -9.2)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -9.2) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}11}}}};
+\draw (1.5, -10.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -10.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}12}}}};
+\draw (1.5, -10.8)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -10.8) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}13}}}};
+\draw (1.5, -11.600000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -11.600000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}14}}}};
+\draw (1.5, -12.400000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -12.400000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}15}}}};
+\draw (1.5, -13.200000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -13.200000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}16}}}};
+\draw (1.5, -14.000000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -14.000000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}17}}}};
+\draw (1.5, -14.800000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -14.800000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}18}}}};
+\draw (1.5, -15.600000000000005)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -15.600000000000005) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}19}}}};
+\draw (1.5, -16.40000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (1.5, -16.40000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}20}}}};\node[anchor=south] at (1.5,-0.79) {};\node[anchor=east] at (-0.01,-1.2000000000000002) {};\node[anchor=east] at (-0.01,-2.0000000000000004) {};\node[anchor=east] at (-0.01,-2.8000000000000003) {};\node[anchor=east] at (-0.01,-3.6) {};\node[anchor=east] at (-0.01,-4.4) {};\node[anchor=east] at (-0.01,-5.199999999999999) {};\node[anchor=east] at (-0.01,-6.0) {};\node[anchor=east] at (-0.01,-6.799999999999999) {};\node[anchor=east] at (-0.01,-7.6) {};\node[anchor=east] at (-0.01,-8.399999999999999) {};\node[anchor=east] at (-0.01,-9.2) {};\node[anchor=east] at (-0.01,-10.0) {};\node[anchor=east] at (-0.01,-10.8) {};\node[anchor=east] at (-0.01,-11.600000000000001) {};\node[anchor=east] at (-0.01,-12.400000000000002) {};\node[anchor=east] at (-0.01,-13.200000000000003) {};\node[anchor=east] at (-0.01,-14.000000000000004) {};\node[anchor=east] at (-0.01,-14.800000000000004) {};\node[anchor=east] at (-0.01,-15.600000000000003) {};\node[anchor=east] at (-0.01,-16.400000000000006) {};
+\draw (1.4999999999999998, -8.800000000000006)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][16.02cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (4.5, -1.2000000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -1.2000000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -2.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -2.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -2.8000000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -2.8000000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -3.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -3.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -4.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -4.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -5.199999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -5.199999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -6.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -6.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -6.799999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -6.799999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -7.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -7.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -8.399999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -8.399999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -9.2)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -9.2) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -10.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -10.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -10.8)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -10.8) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -11.600000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -11.600000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -12.400000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -12.400000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -13.200000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -13.200000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -14.000000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -14.000000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -14.800000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -14.800000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -15.600000000000005)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -15.600000000000005) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};
+\draw (4.5, -16.40000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (4.5, -16.40000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints1234567891011121314151617181920}}}}};\node[anchor=south] at (4.5,-0.79) {};\node[anchor=east] at (2.99,-1.2000000000000002) {};\node[anchor=east] at (2.99,-2.0000000000000004) {};\node[anchor=east] at (2.99,-2.8000000000000003) {};\node[anchor=east] at (2.99,-3.6) {};\node[anchor=east] at (2.99,-4.4) {};\node[anchor=east] at (2.99,-5.199999999999999) {};\node[anchor=east] at (2.99,-6.0) {};\node[anchor=east] at (2.99,-6.799999999999999) {};\node[anchor=east] at (2.99,-7.6) {};\node[anchor=east] at (2.99,-8.399999999999999) {};\node[anchor=east] at (2.99,-9.2) {};\node[anchor=east] at (2.99,-10.0) {};\node[anchor=east] at (2.99,-10.8) {};\node[anchor=east] at (2.99,-11.600000000000001) {};\node[anchor=east] at (2.99,-12.400000000000002) {};\node[anchor=east] at (2.99,-13.200000000000003) {};\node[anchor=east] at (2.99,-14.000000000000004) {};\node[anchor=east] at (2.99,-14.800000000000004) {};\node[anchor=east] at (2.99,-15.600000000000003) {};\node[anchor=east] at (2.99,-16.400000000000006) {};
+\draw (4.5, -8.800000000000006)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][16.02cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (9.5, -0.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -0.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}Question}}}};\node[anchor=south] at (9.5,0.01) {};\node[anchor=east] at (7.99,-0.4) {};
+\draw (9.5, -0.4)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (12.5, -0.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -0.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}Points}}}};\node[anchor=south] at (12.5,0.01) {};\node[anchor=east] at (10.99,-0.4) {};
+\draw (12.5, -0.4)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (9.5, -1.2000000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -1.2000000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}21}}}};
+\draw (9.5, -2.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -2.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}22}}}};
+\draw (9.5, -2.8000000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -2.8000000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}23}}}};
+\draw (9.5, -3.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -3.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}24}}}};
+\draw (9.5, -4.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -4.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}25}}}};
+\draw (9.5, -5.199999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -5.199999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}26}}}};
+\draw (9.5, -6.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -6.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}27}}}};
+\draw (9.5, -6.799999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -6.799999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}28}}}};
+\draw (9.5, -7.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -7.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}29}}}};
+\draw (9.5, -8.399999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -8.399999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}30}}}};
+\draw (9.5, -9.2)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -9.2) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}31}}}};
+\draw (9.5, -10.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -10.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}32}}}};
+\draw (9.5, -10.8)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -10.8) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}33}}}};
+\draw (9.5, -11.600000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -11.600000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}34}}}};
+\draw (9.5, -12.400000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -12.400000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}35}}}};
+\draw (9.5, -13.200000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -13.200000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}36}}}};
+\draw (9.5, -14.000000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -14.000000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}37}}}};
+\draw (9.5, -14.800000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -14.800000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}38}}}};
+\draw (9.5, -15.600000000000005)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -15.600000000000005) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}39}}}};
+\draw (9.5, -16.40000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -16.40000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}40}}}};\node[anchor=south] at (9.5,-0.79) {};\node[anchor=east] at (7.99,-1.2000000000000002) {};\node[anchor=east] at (7.99,-2.0000000000000004) {};\node[anchor=east] at (7.99,-2.8000000000000003) {};\node[anchor=east] at (7.99,-3.6) {};\node[anchor=east] at (7.99,-4.4) {};\node[anchor=east] at (7.99,-5.199999999999999) {};\node[anchor=east] at (7.99,-6.0) {};\node[anchor=east] at (7.99,-6.799999999999999) {};\node[anchor=east] at (7.99,-7.6) {};\node[anchor=east] at (7.99,-8.399999999999999) {};\node[anchor=east] at (7.99,-9.2) {};\node[anchor=east] at (7.99,-10.0) {};\node[anchor=east] at (7.99,-10.8) {};\node[anchor=east] at (7.99,-11.600000000000001) {};\node[anchor=east] at (7.99,-12.400000000000002) {};\node[anchor=east] at (7.99,-13.200000000000003) {};\node[anchor=east] at (7.99,-14.000000000000004) {};\node[anchor=east] at (7.99,-14.800000000000004) {};\node[anchor=east] at (7.99,-15.600000000000003) {};\node[anchor=east] at (7.99,-16.400000000000006) {};
+\draw (9.5, -8.800000000000006)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][16.02cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (12.5, -1.2000000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -1.2000000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -2.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -2.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -2.8000000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -2.8000000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -3.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -3.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -4.4)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -4.4) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -5.199999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -5.199999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -6.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -6.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -6.799999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -6.799999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -7.6)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -7.6) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -8.399999999999999)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -8.399999999999999) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -9.2)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -9.2) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -10.0)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -10.0) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -10.8)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -10.8) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -11.600000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -11.600000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -12.400000000000002)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -12.400000000000002) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -13.200000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -13.200000000000003) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -14.000000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -14.000000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -14.800000000000004)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -14.800000000000004) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -15.600000000000005)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -15.600000000000005) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};
+\draw (12.5, -16.40000000000001)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -16.40000000000001) node[color=black] {{\texttt{{\vphantom{QuestionPoints2122232425262728293031323334353637383940}}}}};\node[anchor=south] at (12.5,-0.79) {};\node[anchor=east] at (10.99,-1.2000000000000002) {};\node[anchor=east] at (10.99,-2.0000000000000004) {};\node[anchor=east] at (10.99,-2.8000000000000003) {};\node[anchor=east] at (10.99,-3.6) {};\node[anchor=east] at (10.99,-4.4) {};\node[anchor=east] at (10.99,-5.199999999999999) {};\node[anchor=east] at (10.99,-6.0) {};\node[anchor=east] at (10.99,-6.799999999999999) {};\node[anchor=east] at (10.99,-7.6) {};\node[anchor=east] at (10.99,-8.399999999999999) {};\node[anchor=east] at (10.99,-9.2) {};\node[anchor=east] at (10.99,-10.0) {};\node[anchor=east] at (10.99,-10.8) {};\node[anchor=east] at (10.99,-11.600000000000001) {};\node[anchor=east] at (10.99,-12.400000000000002) {};\node[anchor=east] at (10.99,-13.200000000000003) {};\node[anchor=east] at (10.99,-14.000000000000004) {};\node[anchor=east] at (10.99,-14.800000000000004) {};\node[anchor=east] at (10.99,-15.600000000000003) {};\node[anchor=east] at (10.99,-16.400000000000006) {};
+\draw (12.5, -8.800000000000006)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][16.02cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (9.5, -17.9)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -17.9) node[color=black] {{\texttt{{\vphantom{TOTAL}TOTAL}}}};\node[anchor=south] at (9.5,-17.49) {};\node[anchor=east] at (7.99,-17.9) {};
+\draw (9.5, -17.9)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (12.5, -17.9)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -17.9) node[color=black] {{\texttt{{\vphantom{TOTAL}}}}};\node[anchor=south] at (12.5,-17.49) {};\node[anchor=east] at (10.99,-17.9) {};
+\draw (12.5, -17.9)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (9.5, -18.700000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (9.5, -18.700000000000003) node[color=black] {{\texttt{{\vphantom{TOTAL}}}}};\node[anchor=south] at (9.5,-18.29) {};\node[anchor=east] at (7.99,-18.700000000000003) {};
+\draw (9.5, -18.700000000000003)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\draw (12.5, -18.700000000000003)
+  node[draw, line width=0.02cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.8cm]{3.0cm}
+\mbox{}
+
+\end{minipage}
+
+};\draw (12.5, -18.700000000000003) node[color=black] {{\texttt{{\vphantom{TOTAL}}}}};\node[anchor=south] at (12.5,-18.29) {};\node[anchor=east] at (10.99,-18.700000000000003) {};
+\draw (12.5, -18.700000000000003)
+  node[draw, line width=0.06cm, , color=black,
+       rounded corners=0cm, inner sep=0cm] {
+
+\begin{minipage}[t][0.82cm]{3.02cm}
+\mbox{}
+
+\end{minipage}
+
+};
+\end{tikzpicture}
+
+\end{center}
+

@@ -1,0 +1,106 @@
+\newcommand\COURSE{ciss240}
+\newcommand\ASSESSMENT{t01}
+\newcommand\POINTS{\textwhite{xxx/xxx}}
+
+\makeatletter
+\DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
+\DeclareOldFontCommand{\sf}{\normalfont\sffamily}{\mathsf}
+\DeclareOldFontCommand{\tt}{\normalfont\ttfamily}{\mathtt}
+\DeclareOldFontCommand{\bf}{\normalfont\bfseries}{\mathbf}
+\DeclareOldFontCommand{\it}{\normalfont\itshape}{\mathit}
+\DeclareOldFontCommand{\sl}{\normalfont\slshape}{\@nomath\sl}
+\DeclareOldFontCommand{\sc}{\normalfont\scshape}{\@nomath\sc}
+\makeatother
+
+\input{myquizpreamble}
+\input{yliow}
+\input{\COURSE}
+\textwidth=6in
+
+\renewcommand\TITLE{Quiz \texttt{\ASSESSMENT}}
+
+\newcommand\topmattertwo{
+\topmatter
+\score \\ \\
+Open \texttt{main.tex} and enter answers (look for
+\texttt{answercode}, \texttt{answerbox}, \texttt{answerlong}).
+Turn the page for detailed instructions.
+To rebuild and view pdf, in bash shell execute \texttt{make}.
+To build a gzip-tar file, in bash shell execute \texttt{make s} and
+you'll get \texttt{submit.tar.gz}.
+}
+
+\newcommand\tf{T or F or M}
+\newcommand\answerbox[1]{\textbox{#1}}
+\newcommand\codebox[1]{\begin{console}#1\end{console}}
+
+\usepackage{pifont}
+\newcommand{\cmark}{\textred{\ding{51}}}
+\newcommand{\xmark}{\textred{\ding{55}}}
+
+\newcounter{qc}
+\newcommand\nextq{
+%\newpage
+\addtocounter{qc}{1}
+Q{\theqc}.
+}
+
+\DefineVerbatimEnvironment%
+ {answercode}{Verbatim}
+ {frame=single,fontsize=\footnotesize}
+
+\newenvironment{largebox}[1]{%
+ \boxparone{#1}
+}
+{}
+
+\usepackage{environ}
+\let\oldquote=\quote
+\let\endoldquote=\endquote
+\let\quote\relax
+\let\endquote\relax
+
+% ADDED 2021/09/09
+\renewcommand\boxpar[1]{
+ \[
+  \framebox[\textwidth][c] {
+   \parbox[]{\dimexpr\textwidth - 0.25cm} {#1}
+  }
+ \]
+}
+
+\NewEnviron{answerlong}%
+  {\vspace{-1mm} \global\let\tmp\BODY\aftergroup\doboxpar}
+
+\newcommand\doboxpar{%
+  \let\quote=\oldquote
+  \let\endquote=\endoldquote
+  \boxpar{\tmp}
+}
+
+\newenvironment{mcq}[7]%
+{% begin code
+#1 \dotfill{#2}
+ \begin{tightlist}
+ \item[(A)] #3
+ \item[(B)] #4
+ \item[(C)] #5
+ \item[(D)] #6
+ \item[(E)] #7 
+ \end{tightlist}
+}%
+{% end code
+} 
+
+\renewcommand\EMAIL{}
+\newcommand\score{%
+\vspace{-0.6in}
+\begin{flushright}
+Score: \answerbox{\POINTS}
+\end{flushright}
+\vspace{-0.4in}
+\hspace{0.7in}\AUTHOR
+\vspace{0.2in}
+}
+
+\newcommand\blankline{\mbox{}\\ }
