@@ -1,5 +1,11 @@
 '''
 to find answers in latex file (which are quizzes)
+
+ADD INCORRECt NESTING:
+\begin{answerlong}
+\begin{answercode}
+\end{answerlong}
+\end{answercode}
 '''
 import re
 
@@ -62,10 +68,10 @@ def addanswers(s, answers):
     indices = []
     for m in re.finditer(p, s):
         subs = s[m.start(0): m.end(0)]
-        print("subs:", subs)
-        for c in subs:
-            print("c: (%s,%s) " % (c, ord(c)), end="")
-        print()
+        #print("subs:", subs)
+        #for c in subs:
+        #    print("c: (%s,%s) " % (c, ord(c)), end="")
+        #print()
         if subs == '\\begin{answercode}\n':
             i = s[m.end(0):].find(r'\end{answercode}')
             t = s[m.end(0):][:i]
@@ -84,16 +90,16 @@ def addanswers(s, answers):
             kinds.append('answerlong')
         else:
             print("ERROR!")
-        #t = t.strip()
+        
         indices.append((m.end(0), m.end(0) + i))
         xs.append(t)        
+
     #return xs
-    print("xs:", xs)
-    
-    print("number indices:", len(indices))
-    print(indices)
-    print("number answers:", len(answers))
-    print(answers)
+    #print("xs:", xs)
+    #print("number indices:", len(indices))
+    #print(indices)
+    #print("number answers:", len(answers))
+    #print(answers)
     new_s = ""
     previous_index = 0
     for index, answer, kind in zip(indices, answers, kinds):
