@@ -19,3 +19,4 @@ a:
 	rm -rf answers
 	mkdir answers
 	cp -r questions/* answers/
+	python finddata.py

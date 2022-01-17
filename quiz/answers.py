@@ -1,5 +1,5 @@
 answers = [
-    'aaa',
-    'bbb',
-    'ccc',
+    '2',
+    'int x;',
+    '2',
 ]
