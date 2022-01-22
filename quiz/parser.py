@@ -61,7 +61,7 @@ def finddata(thispreamble='questions/thispreamble.tex',
             "author": getauthor(m),
             "answers": getanswers(m)}
 
-def addanswers(s, answers, output='answers/main.tex'):
+def addanswers(answers, s):
     p = re.compile(r'\\begin\{answercode\}\n|\\answerbox\{|\\begin\{answerlong\}\n')
     xs = []
     kinds = []
@@ -109,12 +109,17 @@ def addanswers(s, answers, output='answers/main.tex'):
             new_s += '\n'
         previous_index = index[1]
     new_s += s[previous_index:]
-    if output==None:
-        print(new_s)
-    else:
-        f = open(output, 'w')
-        f.write(new_s)
-        f.close()
+    return new_s
+
+def addanswertolatex(answer):
+    f = open('answers/main.tex', 'r')
+    s = f.read()
+    f.close()
+    s = addanswers(answers, s)
+    f = open('answers/main.tex', 'w')
+    f.write(s)
+    f.close()
+
     
 if __name__ == '__main__':
     #data = finddata()
@@ -124,8 +129,7 @@ if __name__ == '__main__':
     #print("answers:", data['answers'])
 
     from answers import answers
-    s = open('questions/main.tex', 'r').read()
-    addanswers(s, answers)
-
+    addanswertolatex(answers)
+    
     #t = open('questions/main.tex', 'r').read()
     #print(getanswers2(t))
