@@ -103,8 +103,6 @@ def addanswers(answers, s):
     new_s = ""
     previous_index = 0
     for index, answer, kind in zip(indices, answers, kinds):
-        if answer.strip() == '':
-            answer = r'\textwhite{A}' # 2022
         new_s += s[previous_index: index[0]]
         new_s += answer
         if kind in ['answercode', 'answerlong']:
